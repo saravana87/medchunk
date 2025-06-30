@@ -1,0 +1,9 @@
+spacy
+keybert
+sentence-transformers
+hdbscan
+scikit-learn
+numpy
+scipy
+pandas
+.mvenv/
